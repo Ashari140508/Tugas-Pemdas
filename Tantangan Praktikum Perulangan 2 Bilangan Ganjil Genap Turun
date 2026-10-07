@@ -1,0 +1,13 @@
+//indetitas diri
+//NIM : 09040626115
+//Nama : Ashari Ismail Rizky Akbar
+//Modul Praktikum 2 Tantangan
+public class BilanganGenapTurun {
+    public static void main(String[] args) {
+
+        for (int i = 20; i >= 2; i -= 2) {
+            System.out.println(i);
+        }
+
+    }
+}
